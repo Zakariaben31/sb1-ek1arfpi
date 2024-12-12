@@ -3,7 +3,7 @@ export const cars = [
     id: '1',
     name: 'Tesla Model 3',
     category: 'Electric',
-    price: 89,
+    price: 120,
     image: 'https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&q=80&w=1200',
     seats: 5,
     transmission: 'Automatic',
