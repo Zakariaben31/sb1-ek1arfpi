@@ -11,7 +11,7 @@ export const cars = [
     available: true,
     description: 'Experience the future of driving with the Tesla Model 3. This all-electric sedan combines luxury with sustainability.',
     features: [
-      'Autopilot',
+      'Auto-pilot',
       'Premium Sound System',
       'Glass Roof',
       'Wireless Charging',
